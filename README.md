@@ -19,7 +19,7 @@
 
 ## 🖼 Скриншоты
 ### Внешний вид GNOME
-![GNOME Desktop 1](./screenshots/gnome0)
+![GNOME Desktop 1](./screenshots/gnome0.png)
 ![GNOME Desktop 2](./screenshots/gnome1.png)
 ![GNOME Desktop 3](./screenshots/gnome2.png)
 
